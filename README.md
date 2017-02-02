@@ -1,3 +1,3 @@
 # NetControl
 
-Test
+Simple neuron rate and volume popping model
